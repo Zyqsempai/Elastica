@@ -14,6 +14,7 @@ All notable changes to this project will be documented in this file based on the
 
 ### Improvements
 
+- added support for search option 'request_cache' [PR-1243](https://github.com/ruflin/Elastica/pull/1243)
 - added support for the "explain" flag of AnalyzeAPI [PR-1254](https://github.com/ruflin/Elastica/pull/1254)
 
 ### Deprecated
